@@ -10,7 +10,8 @@
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
-Ссылка на датасет https://drive.google.com/drive/u/0/folders/1cuVZ0M96cX5xg0LF6qVkEmZpvNjfMzWi
+Ссылка на датасет https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view
+или https://drive.google.com/drive/u/0/folders/1cuVZ0M96cX5xg0LF6qVkEmZpvNjfMzWi
 
 :arrow_up:[к оглавлению](_)
 
@@ -59,6 +60,11 @@
 
 ### Результаты:  
 Проведена обработка данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
+
+Ссылка на графики:
+
+https://drive.google.com/drive/u/0/folders/1P8F56sM0UY1Mje_j-e6UHqDdmfSuuoXP
+
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
